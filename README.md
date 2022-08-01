@@ -2,10 +2,8 @@
 
 
 I'm GuanWei a System Developer.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanweisu514&show_icons=true&theme=radical)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanwei514&theme=buefy)](https://github.com/guanwei514)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanwei514&layout=compact&theme=buefy)]
 ### Skills
 <!--
 **guanwei514/guanwei514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
