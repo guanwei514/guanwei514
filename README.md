@@ -3,8 +3,7 @@
 
 I'm GuanWei a System Developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanwei514)](https://github.com/guanwei514)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanweisu514&show_icons=true&theme=radical)
 
 
 ### Skills
