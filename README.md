@@ -2,8 +2,10 @@
 
 
 I'm GuanWei a System Developer.
+
 [![GuanWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanwei514&theme=buefy)](https://github.com/guanwei514)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanwei514&layout=compact&theme=buefy)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanwei514&layout=compact&theme=buefy)
 
 
 <!--
