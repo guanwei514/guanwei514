@@ -5,8 +5,9 @@
 
 I'm GuanWei a System Developer.
 
-![GuanWei  GitHub Stats](https://github-readme-stats.vercel.app/api?username=guanwei514&show_icons=true)
+[![GuanWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanwei514&theme=buefy)](https://github.com/guanwei514)
 
+### Skills
 
 Here are some ideas to get you started:
 
